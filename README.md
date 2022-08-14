@@ -33,4 +33,4 @@ https://trello.com/invite/b/qXxwDT5T/94c58c685ad833e9ef6762843772d388/scrum-boar
 
 
 Integrantes del proyecto:
-Ludmila Wagner, Raúl Aggio, Tadeo Marino, Nicolás Aguero Avalos, Rubén Veinticinque.
+Ludmila Wagner, Raúl Aggio, Rubén Veinticinque.
